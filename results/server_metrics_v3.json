@@ -1,0 +1,1699 @@
+{
+  "evaluation": {
+    "round_0": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": 0.898,
+            "dice_score": 0.0814402155160904
+          }
+        }
+      ]
+    },
+    "round_1": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": 0.061501930155700296,
+            "dice_score": 0.0
+          }
+        }
+      ]
+    },
+    "round_2": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.033767475128621986,
+            "dice_score": 0.0
+          }
+        }
+      ]
+    },
+    "round_3": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.26401082263808506,
+            "dice_score": 0.47881867504119874
+          }
+        }
+      ]
+    },
+    "round_4": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.21479395326815154,
+            "dice_score": 0.5153319794654846
+          }
+        }
+      ]
+    },
+    "round_5": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.2721814358194071,
+            "dice_score": 0.4940147521018982
+          }
+        }
+      ]
+    },
+    "round_6": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.34711670953617957,
+            "dice_score": 0.5833797706604004
+          }
+        }
+      ]
+    },
+    "round_7": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3493021298386997,
+            "dice_score": 0.5442514128684998
+          }
+        }
+      ]
+    },
+    "round_8": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.33704307480593376,
+            "dice_score": 0.5745674806594848
+          }
+        }
+      ]
+    },
+    "round_9": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.2367702870933633,
+            "dice_score": 0.5385151462554931
+          }
+        }
+      ]
+    },
+    "round_10": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3346531420569671,
+            "dice_score": 0.5664769563674927
+          }
+        }
+      ]
+    },
+    "round_11": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.38124741301142184,
+            "dice_score": 0.5560198225021362
+          }
+        }
+      ]
+    },
+    "round_12": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.28331500223615114,
+            "dice_score": 0.5722956693649291
+          }
+        }
+      ]
+    },
+    "round_13": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3551545739998495,
+            "dice_score": 0.601241547203064
+          }
+        }
+      ]
+    },
+    "round_14": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3003908913453719,
+            "dice_score": 0.54871754322052
+          }
+        }
+      ]
+    },
+    "round_15": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3019348670759595,
+            "dice_score": 0.5533383567810058
+          }
+        }
+      ]
+    },
+    "round_16": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3266145097590927,
+            "dice_score": 0.5259981247901916
+          }
+        }
+      ]
+    },
+    "round_17": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.40487069015126487,
+            "dice_score": 0.6070107856750488
+          }
+        }
+      ]
+    },
+    "round_18": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4032137569691005,
+            "dice_score": 0.6506509323120117
+          }
+        }
+      ]
+    },
+    "round_19": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.30841674517644074,
+            "dice_score": 0.5597193655014038
+          }
+        }
+      ]
+    },
+    "round_20": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.37552718162805515,
+            "dice_score": 0.6118386022567749
+          }
+        }
+      ]
+    },
+    "round_21": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4028145826992236,
+            "dice_score": 0.6047271915435791
+          }
+        }
+      ]
+    },
+    "round_22": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3651420879803206,
+            "dice_score": 0.558435103225708
+          }
+        }
+      ]
+    },
+    "round_23": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.43657404968344177,
+            "dice_score": 0.5999933029174805
+          }
+        }
+      ]
+    },
+    "round_24": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3965845112289701,
+            "dice_score": 0.5783602151870728
+          }
+        }
+      ]
+    },
+    "round_25": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.28596768697670527,
+            "dice_score": 0.5379098364830017
+          }
+        }
+      ]
+    },
+    "round_26": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.31875903640564224,
+            "dice_score": 0.5017968137741089
+          }
+        }
+      ]
+    },
+    "round_27": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.48336735460453467,
+            "dice_score": 0.6715223533630371
+          }
+        }
+      ]
+    },
+    "round_28": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.34936402055733184,
+            "dice_score": 0.5459217304229737
+          }
+        }
+      ]
+    },
+    "round_29": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.40010893601672093,
+            "dice_score": 0.6484960121154785
+          }
+        }
+      ]
+    },
+    "round_30": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4467548546199512,
+            "dice_score": 0.6519114950180054
+          }
+        }
+      ]
+    },
+    "round_31": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4194258939466979,
+            "dice_score": 0.5786962938308715
+          }
+        }
+      ]
+    },
+    "round_32": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4196122181585857,
+            "dice_score": 0.6430518728256225
+          }
+        }
+      ]
+    },
+    "round_33": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3362316525874281,
+            "dice_score": 0.6177297529220581
+          }
+        }
+      ]
+    },
+    "round_34": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4016472421687349,
+            "dice_score": 0.5835343534469605
+          }
+        }
+      ]
+    },
+    "round_35": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5235282295700303,
+            "dice_score": 0.6363313711166382
+          }
+        }
+      ]
+    },
+    "round_36": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.42502710477391586,
+            "dice_score": 0.6065637073516846
+          }
+        }
+      ]
+    },
+    "round_37": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.47633085915379064,
+            "dice_score": 0.6151250764846802
+          }
+        }
+      ]
+    },
+    "round_38": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5556027329434129,
+            "dice_score": 0.6620541074752807
+          }
+        }
+      ]
+    },
+    "round_39": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4367126938050851,
+            "dice_score": 0.6118833234786987
+          }
+        }
+      ]
+    },
+    "round_40": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5517372155081957,
+            "dice_score": 0.654114416885376
+          }
+        }
+      ]
+    },
+    "round_41": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4809823917724136,
+            "dice_score": 0.6459169767379761
+          }
+        }
+      ]
+    },
+    "round_42": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4533248436890151,
+            "dice_score": 0.6320700679779052
+          }
+        }
+      ]
+    },
+    "round_43": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.45622913634149653,
+            "dice_score": 0.6239062356948852
+          }
+        }
+      ]
+    },
+    "round_44": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.41522226592203726,
+            "dice_score": 0.599802367401123
+          }
+        }
+      ]
+    },
+    "round_45": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4566455235947343,
+            "dice_score": 0.6554156839370728
+          }
+        }
+      ]
+    },
+    "round_46": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.43270169052055907,
+            "dice_score": 0.6354984718322754
+          }
+        }
+      ]
+    },
+    "round_47": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4181756445285969,
+            "dice_score": 0.6084552543640137
+          }
+        }
+      ]
+    },
+    "round_48": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5135851145660071,
+            "dice_score": 0.6371918529510497
+          }
+        }
+      ]
+    },
+    "round_49": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4375035917848573,
+            "dice_score": 0.599487912940979
+          }
+        }
+      ]
+    },
+    "round_50": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5030835296901545,
+            "dice_score": 0.6856288192749024
+          }
+        }
+      ]
+    },
+    "round_51": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.44287974819294496,
+            "dice_score": 0.6567563163757325
+          }
+        }
+      ]
+    },
+    "round_52": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4823500299892928,
+            "dice_score": 0.6262059642791749
+          }
+        }
+      ]
+    },
+    "round_53": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5003535040222613,
+            "dice_score": 0.611468179321289
+          }
+        }
+      ]
+    },
+    "round_54": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5172498744367657,
+            "dice_score": 0.6146234355926513
+          }
+        }
+      ]
+    },
+    "round_55": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5627266204832192,
+            "dice_score": 0.6079852128982545
+          }
+        }
+      ]
+    },
+    "round_56": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6114841064528416,
+            "dice_score": 0.6986801856994629
+          }
+        }
+      ]
+    },
+    "round_57": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4587936524600911,
+            "dice_score": 0.582846061706543
+          }
+        }
+      ]
+    },
+    "round_58": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4766448052547928,
+            "dice_score": 0.6306825719833374
+          }
+        }
+      ]
+    },
+    "round_59": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4222512313118555,
+            "dice_score": 0.5433395484924317
+          }
+        }
+      ]
+    },
+    "round_60": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.542012414813938,
+            "dice_score": 0.645916641998291
+          }
+        }
+      ]
+    },
+    "round_61": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5227282745596161,
+            "dice_score": 0.6685070852279663
+          }
+        }
+      ]
+    },
+    "round_62": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5921610309342693,
+            "dice_score": 0.7577648866653443
+          }
+        }
+      ]
+    },
+    "round_63": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.47393310416641093,
+            "dice_score": 0.5777378671646118
+          }
+        }
+      ]
+    },
+    "round_64": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5589123708592322,
+            "dice_score": 0.6988251949310303
+          }
+        }
+      ]
+    },
+    "round_65": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5262320670848503,
+            "dice_score": 0.6321745737075806
+          }
+        }
+      ]
+    },
+    "round_66": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4171424314724772,
+            "dice_score": 0.6283898729324341
+          }
+        }
+      ]
+    },
+    "round_67": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6159088310478326,
+            "dice_score": 0.7098880067825317
+          }
+        }
+      ]
+    },
+    "round_68": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4834020553513577,
+            "dice_score": 0.5784141082763672
+          }
+        }
+      ]
+    },
+    "round_69": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5596523669070768,
+            "dice_score": 0.6256138767242432
+          }
+        }
+      ]
+    },
+    "round_70": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.42226025671707956,
+            "dice_score": 0.5900962554931641
+          }
+        }
+      ]
+    },
+    "round_71": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5186657791890597,
+            "dice_score": 0.6666330785751342
+          }
+        }
+      ]
+    },
+    "round_72": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5153635494189155,
+            "dice_score": 0.6839646274566651
+          }
+        }
+      ]
+    },
+    "round_73": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.47132476101871723,
+            "dice_score": 0.578641865158081
+          }
+        }
+      ]
+    },
+    "round_74": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5314585155338273,
+            "dice_score": 0.665843025970459
+          }
+        }
+      ]
+    },
+    "round_75": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5054454775259908,
+            "dice_score": 0.6274270946502686
+          }
+        }
+      ]
+    },
+    "round_76": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4219066700258649,
+            "dice_score": 0.6107628158569336
+          }
+        }
+      ]
+    },
+    "round_77": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5230036407565712,
+            "dice_score": 0.6403359958648681
+          }
+        }
+      ]
+    },
+    "round_78": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5327123582022532,
+            "dice_score": 0.6669120506286621
+          }
+        }
+      ]
+    },
+    "round_79": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5690601201568332,
+            "dice_score": 0.6470830089569092
+          }
+        }
+      ]
+    },
+    "round_80": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4466981093399507,
+            "dice_score": 0.5900546138763428
+          }
+        }
+      ]
+    },
+    "round_81": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5166390838219708,
+            "dice_score": 0.6446012489318848
+          }
+        }
+      ]
+    },
+    "round_82": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5370381872895965,
+            "dice_score": 0.6352755352020264
+          }
+        }
+      ]
+    },
+    "round_83": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5921721916019469,
+            "dice_score": 0.6729814836502075
+          }
+        }
+      ]
+    },
+    "round_84": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.39316226258985976,
+            "dice_score": 0.5793564674377442
+          }
+        }
+      ]
+    },
+    "round_85": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5207976260875401,
+            "dice_score": 0.6100912611007691
+          }
+        }
+      ]
+    },
+    "round_86": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5917921994960398,
+            "dice_score": 0.6553892395019532
+          }
+        }
+      ]
+    },
+    "round_87": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5937600180296074,
+            "dice_score": 0.6947369522094726
+          }
+        }
+      ]
+    },
+    "round_88": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.46695622202776427,
+            "dice_score": 0.6138795101165772
+          }
+        }
+      ]
+    },
+    "round_89": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6003459397742623,
+            "dice_score": 0.66685989818573
+          }
+        }
+      ]
+    },
+    "round_90": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.526672346608083,
+            "dice_score": 0.6530128555297852
+          }
+        }
+      ]
+    },
+    "round_91": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.45299183868689646,
+            "dice_score": 0.6443004518508911
+          }
+        }
+      ]
+    },
+    "round_92": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5681558898776993,
+            "dice_score": 0.6884171339035035
+          }
+        }
+      ]
+    },
+    "round_93": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6563058939930191,
+            "dice_score": 0.6815102491378784
+          }
+        }
+      ]
+    },
+    "round_94": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5147123655519987,
+            "dice_score": 0.6321769168853759
+          }
+        }
+      ]
+    },
+    "round_95": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5904692061081864,
+            "dice_score": 0.6500613218307495
+          }
+        }
+      ]
+    },
+    "round_96": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5040806784136851,
+            "dice_score": 0.6331821401596069
+          }
+        }
+      ]
+    },
+    "round_97": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5278395663024789,
+            "dice_score": 0.6618107517242432
+          }
+        }
+      ]
+    },
+    "round_98": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5448224530829523,
+            "dice_score": 0.608925496673584
+          }
+        }
+      ]
+    },
+    "round_99": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.533701634451859,
+            "dice_score": 0.6329051095962525
+          }
+        }
+      ]
+    },
+    "round_100": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6452456857727882,
+            "dice_score": 0.7005155633926392
+          }
+        }
+      ]
+    },
+    "round_101": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.7400905928271158,
+            "dice_score": 0.6971133361816406
+          }
+        }
+      ]
+    },
+    "round_102": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5346041819287422,
+            "dice_score": 0.6241669309616089
+          }
+        }
+      ]
+    },
+    "round_103": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6114730199584388,
+            "dice_score": 0.6496975936889648
+          }
+        }
+      ]
+    },
+    "round_104": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4154721345242701,
+            "dice_score": 0.5834188013076782
+          }
+        }
+      ]
+    },
+    "round_105": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4937597754131582,
+            "dice_score": 0.5667740713119507
+          }
+        }
+      ]
+    },
+    "round_106": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.3782802889801954,
+            "dice_score": 0.5376608571052551
+          }
+        }
+      ]
+    },
+    "round_107": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6399227797752036,
+            "dice_score": 0.7060068340301514
+          }
+        }
+      ]
+    },
+    "round_108": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.4660997967204653,
+            "dice_score": 0.5493864535331726
+          }
+        }
+      ]
+    },
+    "round_109": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5181314355717566,
+            "dice_score": 0.5625053369522095
+          }
+        }
+      ]
+    },
+    "round_110": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5361589856237398,
+            "dice_score": 0.6300163061141968
+          }
+        }
+      ]
+    },
+    "round_111": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6190448184309149,
+            "dice_score": 0.7204033853530885
+          }
+        }
+      ]
+    },
+    "round_112": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.49719335248730234,
+            "dice_score": 0.5806717266082764
+          }
+        }
+      ]
+    },
+    "round_113": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.656710280862966,
+            "dice_score": 0.6767290952682494
+          }
+        }
+      ]
+    },
+    "round_114": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6014275764791589,
+            "dice_score": 0.6531916065216065
+          }
+        }
+      ]
+    },
+    "round_115": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.539053676135558,
+            "dice_score": 0.6737451587677001
+          }
+        }
+      ]
+    },
+    "round_116": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5155850385709813,
+            "dice_score": 0.5510013381958008
+          }
+        }
+      ]
+    },
+    "round_117": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6171993378445618,
+            "dice_score": 0.6641754867553711
+          }
+        }
+      ]
+    },
+    "round_118": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6206593889105588,
+            "dice_score": 0.6831157276153564
+          }
+        }
+      ]
+    },
+    "round_119": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.6842555458698057,
+            "dice_score": 0.7221345251083373
+          }
+        }
+      ]
+    },
+    "round_120": {
+      "num_clients": 1,
+      "failures": 0,
+      "results": [
+        {
+          "client": "server",
+          "num_samples": 0,
+          "metrics": {
+            "val_loss": -0.5484921936594453,
+            "dice_score": 0.5596384923934937
+          }
+        }
+      ]
+    }
+  },
+  "training": {}
+}
